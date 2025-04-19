@@ -1,0 +1,18 @@
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*~
+
+# Temporary files
+*.swp
+*.swo
