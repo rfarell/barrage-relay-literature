@@ -16,3 +16,14 @@ Desktop.ini
 # Temporary files
 *.swp
 *.swo
+
+# Python
+__pycache__
+
+# Rust
+target
+
+# Node.js
+node_modules
+
+# Python
